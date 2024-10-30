@@ -1,0 +1,89 @@
+/* Admin Interface */
+#humanstxt_admin{
+	border: 			0px solid #000000;
+	width: 				800px;
+}
+#humanstxt_message{
+	background-color: 	#ffffff;
+	border: 			1px solid #55B05A;
+	color: 				#55B05A;
+	font-size: 			12px/14px;
+	margin: 			0px 0px 10px 0px;
+	padding: 			10px;
+	width: 				520px;
+}
+#humanstxt_text_field{
+	min-height: 		400px;
+	width: 				540px;
+}
+#humanstxt_admin .setting-description{
+	margin: 			0px 0px 10px 0px;
+	width: 				540px;
+}
+#humanstxt_admin select{
+	margin: 			10px 0px 0px 0px;
+}
+#humanstxt_form{
+	border: 			0px solid #55B05A;
+	float: 				left;
+	width: 				540px;
+}
+#humanstxt_suggestions{
+	border: 			0px solid #55B05A;
+	float: 				right;
+	width: 				250px;
+}
+#humanstxt_suggestions ul{
+	margin: 			5px 0px 20px 0px;
+}
+
+/* Click to Add */
+.click-to-add, .click-to-add-site, .click-to-add-template{
+	background-color: 	#eeeeee;
+	border: 			1px solid #cccccc;
+	border-radius: 		4px;
+	cursor: 			pointer;
+	padding: 			5px;
+	-moz-border-radius: 4px;
+}
+.click-to-add:hover,.click-to-add-site:hover, .click-to-add-template:hover{
+	background-color: 	#ffffff;
+	border: 			1px solid green;
+}
+
+/* Submenu */
+#humanstxt_admin_submenu{
+	border-bottom: 		1px solid #cccccc;
+	height: 			25px;
+	margin: 			10px 0px 20px 0px;
+	width: 				540px;
+}
+#humanstxt_admin_submenu li{
+	color: 				#cccccc;
+	float: 				left;
+	margin: 			0px 0px 0px 0px;
+}
+#humanstxt_admin_submenu li a{
+	padding: 			0px 10px 0px 10px;
+	text-decoration: 	none;
+}
+#humanstxt_admin_submenu li a.current{
+	text-decoration: 	underline;
+}
+
+/* Shortcode */
+#humanstxt{
+	background-color: 	#ffffff;
+	border: 			1px solid #cccccc;
+	border-radius: 		4px;
+	margin: 			0px;
+	padding: 			10px 0px 20px 0px;
+	width: 				320px;
+	-moz-border-radius: 4px;	
+}
+#humanstxt li{
+	background-image: none !important;
+	border-bottom: 0px !important;
+	height: 15px;
+	margin: 0px 0px 0px 10px;
+}

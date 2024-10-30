@@ -1,0 +1,22 @@
+/* TEAM */
+	Web Designer: Name
+	Contact: http://website.com/contact/
+	Twitter: @yourtwittername
+	From: City, Province/State, Country
+	
+	Programmer: Name
+	Contact: http://website.com/contact/
+	Twitter: @yourtwittername
+	From: City, Province/State, Country
+	
+	Search Engine Optimization: Name
+	Contact: http://website.com/contact/
+	Twitter: @yourtwittername
+	From: City, Province/State, Country
+
+/* SITE */
+	Last update: 2011/08/10
+	Language: English
+	Doctype: XHTML Strict with CSS3
+	Tools: WordPress
+	IDE: Coda

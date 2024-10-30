@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Humans.txt 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-31 20:50-0800\n"
+"PO-Revision-Date: 2011-01-31 20:53-0800\n"
+"Last-Translator: Hans Vedo <hans@cultivate.it>\n"
+"Language-Team: Hans Vedo <hans@cultivate.it>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: /Users/hansvedo/Sites/Cultivate/2011/cultivate.it/apps/humans-txt/trunk\n"
+"X-Poedit-Language: Norwegian Bokmal\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/code/settings.php:16
+msgid "Your language settings have been successfully updated."
+msgstr "Språkinnstillingene har blitt oppdatert."
+
+#: admin/code/write.php:23
+msgid "Your humans.txt file has been updated!"
+msgstr "Din humans.txt filen har blitt oppdatert!"
+
+#: admin/code/write.php:39
+msgid "A humans.txt file already exists. Please rename it to humans-backup.txt and then use this plugin normally."
+msgstr "En humans.txt filen finnes allerede. Vennligst endre navnet til humans-backup.txt og deretter bruke denne plugin normalt."
+
+#: admin/html/resources.php:14
+#: admin/html/resources.php:15
+msgid "More Information"
+msgstr "Mer informasjon"
+
+#: admin/html/resources.php:16
+msgid "Sample File"
+msgstr "Eksempel fil"
+
+#: admin/html/resources.php:17
+msgid "Submit Yours"
+msgstr "Send Hilsen"
+
+#: admin/html/resources.php:21
+msgid "Pro-tips"
+msgstr "Pro-tips"
+
+#: admin/html/resources.php:22
+msgid "Add a link to your website's contact page instead of your full email address!"
+msgstr "Legg til en link til nettstedets kontakt siden i stedet for den fullstendige e-postadresse!"
+
+#: admin/html/settings.php:18
+msgid "Humans.txt Language"
+msgstr "Humans.txt Språk"
+
+#: admin/html/settings.php:22
+msgid "Automatically Detected"
+msgstr "Automatisk oppdaget"
+
+#: admin/html/settings.php:31
+msgid "Save Language"
+msgstr "Lagre Språk"
+
+#: admin/html/shortcode.php:14
+msgid "Add your humans.txt file to a page with this shortcode: [humanstxt]"
+msgstr "Legg til humans.txt filen til en side med dette snarvei: [humanstxt]"
+
+#: admin/html/shortcode.php:15
+msgid "It will add the content into the following list which can be styled with CSS."
+msgstr "Det vil legge innholdet inn i følgende liste som kan bli stylet med CSS."
+
+#: admin/html/shortcode.php:16
+msgid "@TwitterName and website URLs will be converted into links."
+msgstr "@TwitterName og nettadresser vil bli konvertert til linker."
+
+#: admin/html/submenu.php:2
+msgid "Write"
+msgstr "Skriv"
+
+#: admin/html/submenu.php:3
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/html/submenu.php:4
+msgid "Resources"
+msgstr "Ressurser"
+
+#: admin/html/submenu.php:5
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: admin/html/write.php:14
+msgid "Enter your website credits and click save to update your humans.txt file."
+msgstr "Skriv inn ditt nettsted credits og klikker lagre for å oppdatere humans.txt filen."
+
+#: admin/html/write.php:30
+msgid "Save Changes"
+msgstr "Lagre endringer"
+
